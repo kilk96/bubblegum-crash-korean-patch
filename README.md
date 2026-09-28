@@ -4,7 +4,7 @@ PC Engine HuCard 일본판용 비공식 한국어 패치입니다. v0.9.0은 엔
 
 ## 다운로드와 적용
 
-1. [Releases](https://github.com/kilk96/bubblegum-crash-korean-patch/releases)에서 `bubblegum-crash-ko-v0.9.0.zip`을 내려받아 압축을 푸세요. 현재는 비공개 저장소의 초안 릴리즈로 준비되어 있습니다.
+1. [v0.9.0 검수판 다운로드](https://github.com/kilk96/bubblegum-crash-korean-patch/releases/tag/v0.9.0)에서 `bubblegum-crash-ko-v0.9.0.zip`을 내려받아 압축을 푸세요.
 2. 직접 보유한 일본판 원본 ROM을 백업하고 아래 SHA-256(파일을 식별하는 해시 값)을 확인하세요.
 3. **xdelta 3.2 armor 호환 패처**로 동봉된 `.xdelta` 파일을 원본에 적용하세요. 자세한 명령과 결과 파일 확인 방법은 ZIP 안의 `README.md`에 있습니다.
 4. 패치 결과를 PC Engine 에뮬레이터에서 실행하세요. 확인한 실행 환경은 Mesen 2.2.1입니다.
