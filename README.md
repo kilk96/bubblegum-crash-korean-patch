@@ -6,7 +6,7 @@ PC Engine HuCard 일본판용 비공식 한국어 패치입니다. v0.9.0은 엔
 
 ## 다운로드
 
-**[v0.9.0 패치 다운로드](https://github.com/kilk96/bubblegum-crash-korean-patch/releases/tag/v0.9.0)**에서 **`bubblegum-crash-ko-v0.9.0.zip`**을 받아 압축을 풀어 주세요. 페이지의 **Assets**(첨부 파일)에서 찾을 수 있습니다.
+[v0.9.0 패치 다운로드](https://github.com/kilk96/bubblegum-crash-korean-patch/releases/tag/v0.9.0)에서 `bubblegum-crash-ko-v0.9.0.zip`을 받아 압축을 풀어 주세요. 페이지의 **Assets**(첨부 파일)에서 찾을 수 있습니다.
 
 현재 버전은 **v0.9.0 검수판**입니다. `Source code` 압축 파일은 받지 않으셔도 됩니다. 원본 게임 파일과 패치 적용이 끝난 게임 파일은 제공하지 않습니다.
 
